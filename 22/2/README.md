@@ -11,9 +11,9 @@ https://github.com/JinsuYeo/cpp/commit/6848be576388346e2f46131c158d09f38be9a4cf
    
    
 - 2.11   
-- 알고리즘 문제 풀기
-분할 정복, 그리디 공부 및 연습.
-백준 2261번 분할 정복 이용해 풀어보기.
+- 알고리즘 문제 풀기   
+분할 정복, 그리디 공부 및 연습.   
+백준 2261번 분할 정복 이용해 풀어보기.   
 백준 11047번, 백준 2875번, *백준 10610번, *백준 1783번, *백준 1931번   
 https://github.com/JinsuYeo/cpp/commit/51fefe67f43c1348a9e9564678b36168bce8dc6b
 https://github.com/JinsuYeo/cpp/commit/90a7ff4977d8b8586ffb5743ebc5a514cbd0ece8
