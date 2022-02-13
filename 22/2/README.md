@@ -24,22 +24,22 @@
 - 2.12
 - 알고리즘 문제 풀기
 
-그리디, 완전 탐색 공부 및 연습.  
-백준 11399번, \*백준 2873번, 백준 1744번, 백준 1476번.
+  그리디, 완전 탐색 공부 및 연습.  
+  백준 11399번, \*백준 2873번, 백준 1744번, 백준 1476번.
 
-https://github.com/JinsuYeo/cpp/commit/03adbb0385ea82243ffd2faaa70e0c841b0fa545  
-https://github.com/JinsuYeo/cpp/commit/8f4aa18da7a58635f802a4bfce60da91ace16594  
-https://github.com/JinsuYeo/cpp/commit/d37bc7c6b0b2dec25a72aa31f803658e2ce2a0e7  
-https://github.com/JinsuYeo/cpp/commit/4ab64a4b3edab0711a2cc176f67f1ee254e0608c   
+  https://github.com/JinsuYeo/cpp/commit/03adbb0385ea82243ffd2faaa70e0c841b0fa545  
+  https://github.com/JinsuYeo/cpp/commit/8f4aa18da7a58635f802a4bfce60da91ace16594  
+  https://github.com/JinsuYeo/cpp/commit/d37bc7c6b0b2dec25a72aa31f803658e2ce2a0e7  
+  https://github.com/JinsuYeo/cpp/commit/4ab64a4b3edab0711a2cc176f67f1ee254e0608c   
    
 - 2.13
 - 알고리즘 소스 코드 깃헙에 정리
 
-백준 문제 풀었던 것들 txt 파일로 소스코드와 생각한 내용 등을 옮겨서 레포지터리에 저장, 정리.  
-앞으로 문제 풀고 소스코드와 생각들 txt 파일로 저장해서 커밋하기.  
-원래 커밋할 때 소스코드와 생각 내용 저장되니까 곤찮다고 생각했는데 푼 문제가 늘어날수록 나중에 커밋 내용 찾기 어렵겠다는 생각이 들어서 정리하게됨.
+  백준 문제 풀었던 것들 txt 파일로 소스코드와 생각한 내용 등을 옮겨서 레포지터리에 저장, 정리.  
+  앞으로 문제 풀고 소스코드와 생각들 txt 파일로 저장해서 커밋하기.  
+  원래 커밋할 때 소스코드와 생각 내용 저장되니까 곤찮다고 생각했는데 푼 문제가 늘어날수록 나중에 커밋 내용 찾기 어렵겠다는 생각이 들어서 정리하게됨.
 
 - C++ 예외 처리 공부
 
-udemy 강의 듣고 정리.  
-Throwing an Exception from a Function.
+  udemy 강의 듣고 정리.  
+  Throwing an Exception from a Function.
