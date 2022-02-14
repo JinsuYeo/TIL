@@ -7,8 +7,8 @@
   https://github.com/JinsuYeo/cpp/commit/e1c50294f5b9ac6a52e11bc5547496dacf606cf3  
   https://github.com/JinsuYeo/cpp/commit/470d1abace6651d6c12994b776c3ef48c179c465  
   https://github.com/JinsuYeo/cpp/commit/f8f53401c06342f3fec8e7868706149ea29e3573  
-  https://github.com/JinsuYeo/cpp/commit/6848be576388346e2f46131c158d09f38be9a4cf   
-     
+  https://github.com/JinsuYeo/cpp/commit/6848be576388346e2f46131c158d09f38be9a4cf  
+
 - 2.11
 - 알고리즘 문제 풀기  
   분할 정복, 그리디 공부 및 연습.  
@@ -19,8 +19,8 @@
   https://github.com/JinsuYeo/cpp/commit/1cfebb1fb597a261261735ed3f1713c043ceeab1
   https://github.com/JinsuYeo/cpp/commit/22cf031521826de8117001f3c2ebec0cf26439bb
   https://github.com/JinsuYeo/cpp/commit/8710dd6d3b92d117617a0963acdf6d6418e0163b
-  https://github.com/JinsuYeo/cpp/commit/64f04d6fa349f30b88cde3772ce0f47d18c3e7cc   
-     
+  https://github.com/JinsuYeo/cpp/commit/64f04d6fa349f30b88cde3772ce0f47d18c3e7cc  
+
 - 2.12
 - 알고리즘 문제 풀기
 
@@ -30,8 +30,9 @@
   https://github.com/JinsuYeo/cpp/commit/03adbb0385ea82243ffd2faaa70e0c841b0fa545  
   https://github.com/JinsuYeo/cpp/commit/8f4aa18da7a58635f802a4bfce60da91ace16594  
   https://github.com/JinsuYeo/cpp/commit/d37bc7c6b0b2dec25a72aa31f803658e2ce2a0e7  
-  https://github.com/JinsuYeo/cpp/commit/4ab64a4b3edab0711a2cc176f67f1ee254e0608c   
-   
+  https://github.com/JinsuYeo/cpp/commit/4ab64a4b3edab0711a2cc176f67f1ee254e0608c  
+
+
 - 2.13
 - 알고리즘 소스 코드 깃헙에 정리
 
@@ -43,3 +44,12 @@
 
   udemy 강의 듣고 정리.  
   Throwing an Exception from a Function.
+
+- 2.14
+- 알고리즘 문제 풀이
+  완전 탐색 연습  
+  \*백준 1107번, 백준 9095번, 백준 10819번, 백준 10971번.
+  https://github.com/JinsuYeo/cpp/commit/b1a5409c2e95091c6bc5176ae5e7cadae1686c1e  
+  https://github.com/JinsuYeo/cpp/commit/7f3588f29012672c892258318d687f3aa3f07cba  
+  https://github.com/JinsuYeo/cpp/commit/a69dab04ef7552fb027bb999b11c9cef3256d2d5  
+  https://github.com/JinsuYeo/cpp/commit/05d6aa86a54cd1d5329a4fd4db5fd32a80cb1794
