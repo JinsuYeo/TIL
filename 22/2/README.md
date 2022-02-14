@@ -1,6 +1,7 @@
 # 2022년 2월 TIL
 
-- 2.10
+## 2.10
+
 - 알고리즘 문제 풀기  
   분할 정복, 세그먼트 트리, 병합 정렬, 라인 스위핑 개념 정리 및 구현 연습.  
   백준 2448번, 1517번, 2261번.  
@@ -9,7 +10,9 @@
   https://github.com/JinsuYeo/cpp/commit/f8f53401c06342f3fec8e7868706149ea29e3573  
   https://github.com/JinsuYeo/cpp/commit/6848be576388346e2f46131c158d09f38be9a4cf  
 
-- 2.11
+
+## 2.11
+
 - 알고리즘 문제 풀기  
   분할 정복, 그리디 공부 및 연습.  
   백준 2261번 분할 정복 이용해 풀어보기.  
@@ -21,7 +24,9 @@
   https://github.com/JinsuYeo/cpp/commit/8710dd6d3b92d117617a0963acdf6d6418e0163b
   https://github.com/JinsuYeo/cpp/commit/64f04d6fa349f30b88cde3772ce0f47d18c3e7cc  
 
-- 2.12
+
+# 2.12
+
 - 알고리즘 문제 풀기
 
   그리디, 완전 탐색 공부 및 연습.  
@@ -33,7 +38,8 @@
   https://github.com/JinsuYeo/cpp/commit/4ab64a4b3edab0711a2cc176f67f1ee254e0608c  
 
 
-- 2.13
+## 2.13
+
 - 알고리즘 소스 코드 깃헙에 정리
 
   백준 문제 풀었던 것들 txt 파일로 소스코드와 생각한 내용 등을 옮겨서 레포지터리에 저장, 정리.  
@@ -45,7 +51,8 @@
   udemy 강의 듣고 정리.  
   Throwing an Exception from a Function.
 
-- 2.14
+## 2.14
+
 - 알고리즘 문제 풀이
   완전 탐색 연습  
   \*백준 1107번, 백준 9095번, 백준 10819번, 백준 10971번.
