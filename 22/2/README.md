@@ -64,3 +64,14 @@
   Stack Unwinding and How it Works  
   Creating User-Defined Exception Classes, Class Level Exceptions  
   The C++ std::exception Class Hierarchy
+
+## 2.15
+
+- 알고리즘 문제 풀이
+
+  *백준 1451번, *백준 1697번, 백준 1963번, 백준 9019번.
+
+  https://github.com/JinsuYeo/cpp/commit/aa89a9e9f67e29c5dc301d4714d4f2f3338d4938  
+  https://github.com/JinsuYeo/cpp/commit/6d871d7a4f5ade1ea0b78931725fa92f4bca75f6  
+  https://github.com/JinsuYeo/cpp/commit/0e469f1e9a4d0daf73ad4fe7eccda2805a9e5bd4  
+  https://github.com/JinsuYeo/cpp/commit/b24ccb81ff1c0b06f0f331b8ffa37d88fb82d13c
