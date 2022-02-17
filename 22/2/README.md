@@ -84,3 +84,12 @@
 
 https://github.com/JinsuYeo/cpp/commit/7280d34392f264e0ff65b2f2adb2dfb365357ef0  
 https://github.com/JinsuYeo/cpp/commit/d569f3b504221c640fe887c61fc3aad14735b8da
+
+## 2.17
+
+- 알고리즘 문제 풀이
+
+백준 2186번, 백준 3108번.
+
+https://github.com/JinsuYeo/cpp/commit/97563c811b738686d67d547cdffc4887c465efd8  
+https://github.com/JinsuYeo/cpp/commit/0d5a6d635744b074dad589ab51dc5cfe6cd3bf85
