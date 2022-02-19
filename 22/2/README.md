@@ -93,3 +93,15 @@ https://github.com/JinsuYeo/cpp/commit/d569f3b504221c640fe887c61fc3aad14735b8da
 
 https://github.com/JinsuYeo/cpp/commit/97563c811b738686d67d547cdffc4887c465efd8  
 https://github.com/JinsuYeo/cpp/commit/0d5a6d635744b074dad589ab51dc5cfe6cd3bf85
+
+## 2.19
+
+- 알고리즘 문제 풀이
+
+완전 탐색, 백트래킹 연습.  
+백준 5014번, *백준 1759번, *백준 2580번, 백준 1987번.
+
+https://github.com/JinsuYeo/cpp/commit/0bab023b38294043ebf1dfd43f5c43f1567cf8b1  
+https://github.com/JinsuYeo/cpp/commit/2a9431fbdfb5715bbe8c824008961bb52d3de7c7  
+https://github.com/JinsuYeo/cpp/commit/e3bea576c48def0d50308f53c2fbbc79e0975423  
+https://github.com/JinsuYeo/cpp/commit/605b2a5927247bc3e762a549ee162b4502ab28c4
