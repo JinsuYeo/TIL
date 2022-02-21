@@ -105,3 +105,19 @@ https://github.com/JinsuYeo/cpp/commit/0bab023b38294043ebf1dfd43f5c43f1567cf8b1
 https://github.com/JinsuYeo/cpp/commit/2a9431fbdfb5715bbe8c824008961bb52d3de7c7  
 https://github.com/JinsuYeo/cpp/commit/e3bea576c48def0d50308f53c2fbbc79e0975423  
 https://github.com/JinsuYeo/cpp/commit/605b2a5927247bc3e762a549ee162b4502ab28c4
+
+## 2.21
+
+- 알고리즘 문제 풀이
+
+완전 탐색 연습, 투 포인터 알고리즘 학습.
+백준 6603번, 백준 1182번, 백준 2003번, \*백준 1806번.
+
+https://github.com/JinsuYeo/cpp/commit/7c8393e6127c7c65a8bdfedf41a361faedc083bb  
+https://github.com/JinsuYeo/cpp/commit/aad9de75a8606b53fe9e23825e0637a5cc23de64  
+https://github.com/JinsuYeo/cpp/commit/16e38a6192f7bab4ab3806ab897ce4b0233ba13a  
+https://github.com/JinsuYeo/cpp/commit/031e164e80bcc7c558369f615ff7678c5085089b
+
+- C++ stream, manipulator 등 공부
+
+Files, Streams and I/O, Stream Manipulators, Stream Manipulators - boolean, Stream Manipulators - integers.
