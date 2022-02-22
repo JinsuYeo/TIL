@@ -121,3 +121,16 @@ https://github.com/JinsuYeo/cpp/commit/031e164e80bcc7c558369f615ff7678c5085089b
 - C++ stream, manipulator 등 공부
 
 Files, Streams and I/O, Stream Manipulators, Stream Manipulators - boolean, Stream Manipulators - integers.
+
+## 2.22
+
+- 알고리즘 문제 풀이
+
+완전 탐색 연습, 투 포인터, 우선순위 큐.  
+백준 1644번, \*백준 1261번.  
+https://github.com/JinsuYeo/cpp/commit/40ee35b93b7f4a54272f05c31ccb8880d632b3c4  
+https://github.com/JinsuYeo/cpp/commit/18b9a3faa7005e1763b563205098d95cd9d72b7f
+
+- C++ 강의 듣고 정리
+
+Stream Manipulators - floating point, Stream Manipulators - align and fill, Reading from a Text File.
