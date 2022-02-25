@@ -146,3 +146,17 @@ https://github.com/JinsuYeo/cpp/commit/639b8802c252cd021af2356dacbbe3d04e1f127a
 - C++ 강의 듣고 정리 및 실습
 
 Reading from a Text File, Writing to a Text File, Using String Streams.
+
+## 2.25
+
+- 알고리즘 문제 풀이
+
+완전 탐색 연습, 중간에서 만나기, 투 포인터, 구현 연습.  
+https://github.com/JinsuYeo/cpp/commit/e6bd562b41daa06dadd65215f49dac14582d6d1f  
+https://github.com/JinsuYeo/cpp/commit/e8a8ff2e2c2e5312ee398f4f58c08f04cf9e2bda  
+https://github.com/JinsuYeo/cpp/commit/aef6064f6e17ff90d5fa06c710afe74cea6e9065  
+https://github.com/JinsuYeo/cpp/commit/61a7b6c5c87259873f5d716134dd0e5c4f2e524f
+
+- C++ 강의 듣고 정리
+
+Lambda Expressions.
