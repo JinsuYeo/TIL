@@ -160,3 +160,10 @@ https://github.com/JinsuYeo/cpp/commit/61a7b6c5c87259873f5d716134dd0e5c4f2e524f
 - C++ 강의 듣고 정리
 
 Lambda Expressions.
+
+## 2.27   
+
+- 알고리즘 문제 풀이
+
+자료구조 연습.  
+https://github.com/JinsuYeo/cpp/commit/38c1de6696fc1adeb29fc787a54d3b7e1f501366   
