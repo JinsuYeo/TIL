@@ -11,3 +11,14 @@ Beginning C++ Programming - From Beginner to Beyond 완료.
 - Java 공부
 
 eclipse, JDK 17 설치 및 실습. inflean의 JAVA 플레이 그라운드 강의 듣기 시작.
+
+## 3.5
+
+- 알고리즘 문제 풀이
+
+구현, 스택 연습  
+백준 17299번.
+
+- Java 공부
+
+Java Playground 강의 듣고 정리. 구구단 프로그램 만들면서 Java 기본 문법과 이클립스 사용법, 단축키 등을 익힘. + 추가 미션 등을 통해 실습.
